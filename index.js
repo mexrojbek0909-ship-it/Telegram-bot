@@ -6,7 +6,7 @@ const sqlite3 = require('sqlite3').verbose();
 const path = require('path');
 
 // Environment variables
-const BOT_TOKEN = process.env.BOT_TOKEN || '8412020501:AAH5cg6Py8HsFqC82dNwGbihYwqu9j65FfM';
+const BOT_TOKEN = process.env.BOT_TOKEN || '8412020501:AAHzJOWRB8AIE64auwUjxqnzPkXs5vXzhjM';
 const ADMIN_ID = parseInt(process.env.ADMIN_ID) || 5672881358; // Admin telegram ID
 const PORT = process.env.PORT || 3000;
 const WEBHOOK_URL = process.env.WEBHOOK_URL; // Set in Render: https://yourapp.onrender.com
