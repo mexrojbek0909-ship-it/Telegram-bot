@@ -1,4 +1,4 @@
-// File: index.js
+
 const express = require('express');
 const axios = require('axios');
 const { Telegraf, Markup, session } = require('telegraf');
