@@ -13,7 +13,7 @@ from database import init_db, set_language, get_language, add_user
 from admin import admin_router
 from openai import OpenAI
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+BOT_TOKEN = "8474906754:AAEBN4apm6Yue6bbDOwr93vyVu2zHZCOD80"
 OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
 
 logging.basicConfig(level=logging.INFO)
